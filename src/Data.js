@@ -227,12 +227,6 @@ module.exports = {
       id: "neptune",
       title: "Amazon Neptune",
       url: "https://aws.amazon.com/neptune/",
-      tags: ["semi-structured", "graph", "azure"]
-    },
-    {
-      id: "neptune",
-      title: "Amazon Neptune",
-      url: "https://aws.amazon.com/neptune/",
       tags: ["semi-structured", "graph", "aws"]
     },
     {
